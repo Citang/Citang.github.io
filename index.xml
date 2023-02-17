@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>呲糖</title>
+    <link>https://citang.github.io/</link>
+    <description>Recent content on 呲糖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://citang.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
